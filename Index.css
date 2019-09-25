@@ -1,0 +1,51 @@
+body{
+  background-color:black;
+  background-image:url("https://cdn3-www.comingsoon.net/assets/uploads/2019/03/Lord-of-the-Rings-Sauron.jpg");
+  background-repeat:no-repeat;
+  background-size: contain;
+  background-position: center center;
+  background-attachment:fixed;
+  margin: 20px 20px 20px 20px;
+  font-family: 'Shadows Into Light', cursive;
+  font-size:100%
+}
+
+aside{
+  border-style:dotted;
+  border-color:white;
+  text-align:center;
+
+}
+
+a{
+  text-decoration:none;
+  color:aquamarine;
+}
+
+header{
+  text-align:center;
+  font-family: 'Notable', sans-serif;
+  color:#FF8C00;
+  text-shadow:3px -5px 5px darkred;
+  background-size:cover;
+
+}
+
+h2{
+  background-image:url("https://www.allcitycanvas.com/wp-content/uploads/2019/09/the-lord-of-the-rings-horizontal.jpg");
+  background-size:cover;
+  font-family: 'Vollkorn SC', serif;
+  border-style: ridge;
+  border-color:silver;
+
+}
+p{
+  padding:14px 16px 14px 16px;
+  color:white;
+}
+
+footer{
+  color:rgb(255 255 102);
+  border-style:outset;
+  border-color:#FF4500;
+}
